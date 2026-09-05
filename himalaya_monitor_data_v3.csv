@@ -1,0 +1,181 @@
+site,year,dam_type,lake_area_m2,lake_status,snow_cover_index,snow_images_used,snow_status,last_updated
+Lower Barun,2016,moraine,960664.004808613,ok,10.468,91,normal,2026-09-05T12:14:17.354759
+Lower Barun,2017,moraine,411628.33950482524,ok,9.847,91,normal,2026-09-05T12:14:17.354822
+Lower Barun,2018,moraine,1133655.0403894759,ok,9.052,91,normal,2026-09-05T12:14:17.354830
+Lower Barun,2019,moraine,1801.436767578125,contaminated,9.209,91,normal,2026-09-05T12:14:17.354851
+Lower Barun,2020,moraine,1276936.4161128025,ok,9.804,91,normal,2026-09-05T12:14:17.354858
+Lower Barun,2021,moraine,725322.1748477712,ok,14.21,91,normal,2026-09-05T12:14:17.354864
+Lower Barun,2022,moraine,1282393.6975569185,ok,9.626,91,normal,2026-09-05T12:14:17.354869
+Lower Barun,2023,moraine,0,contaminated,9.783,91,normal,2026-09-05T12:14:17.354874
+Lower Barun,2024,moraine,0,contaminated,8.841,91,normal,2026-09-05T12:14:17.354880
+Chamlang,2016,moraine,0,contaminated,13.432,91,normal,2026-09-05T12:14:32.817664
+Chamlang,2017,moraine,0,contaminated,14.7,91,normal,2026-09-05T12:14:32.817693
+Chamlang,2018,moraine,0,contaminated,12.344,91,normal,2026-09-05T12:14:32.817703
+Chamlang,2019,moraine,900.7200927734375,contaminated,4.892,91,single_year_dip,2026-09-05T12:14:32.817712
+Chamlang,2020,moraine,0,contaminated,11.99,91,normal,2026-09-05T12:14:32.817720
+Chamlang,2021,moraine,0,contaminated,18.533,91,normal,2026-09-05T12:14:32.817727
+Chamlang,2022,moraine,0,contaminated,13.658,91,normal,2026-09-05T12:14:32.817734
+Chamlang,2023,moraine,17113.680786132812,ok,9.521,91,normal,2026-09-05T12:14:32.817741
+Chamlang,2024,moraine,20716.5625,ok,8.826,91,normal,2026-09-05T12:14:32.817748
+Hongu 2,2016,moraine,211729.2393391927,ok,17.623,91,normal,2026-09-05T12:14:46.028270
+Hongu 2,2017,moraine,168434.63830566406,ok,19.705,91,normal,2026-09-05T12:14:46.028298
+Hongu 2,2018,moraine,105264.1372273763,ok,16.133,91,normal,2026-09-05T12:14:46.028307
+Hongu 2,2019,moraine,72601.56055525236,ok,11.147,91,single_year_dip,2026-09-05T12:14:46.028315
+Hongu 2,2020,moraine,580533.4854219325,ok,20.486,91,normal,2026-09-05T12:14:46.028322
+Hongu 2,2021,moraine,224321.6571439855,ok,25.915,91,normal,2026-09-05T12:14:46.028329
+Hongu 2,2022,moraine,0,contaminated,18.543,91,normal,2026-09-05T12:14:46.028336
+Hongu 2,2023,moraine,168505.27897614124,ok,14.73,91,normal,2026-09-05T12:14:46.028344
+Hongu 2,2024,moraine,174941.0094496783,ok,13.161,91,single_year_dip,2026-09-05T12:14:46.028353
+Hongu 1,2016,moraine,259763.9829312194,ok,8.812,91,normal,2026-09-05T12:14:57.646426
+Hongu 1,2017,moraine,261427.664686016,ok,9.589,91,normal,2026-09-05T12:14:57.646454
+Hongu 1,2018,moraine,257973.14029995791,ok,11.5,91,normal,2026-09-05T12:14:57.646463
+Hongu 1,2019,moraine,14305.546957576977,contaminated,2.439,91,single_year_dip,2026-09-05T12:14:57.646471
+Hongu 1,2020,moraine,245214.71290378945,ok,10.39,91,normal,2026-09-05T12:14:57.646479
+Hongu 1,2021,moraine,256023.3473032035,ok,19.584,91,normal,2026-09-05T12:14:57.646486
+Hongu 1,2022,moraine,260526.94508152382,ok,4.624,91,normal,2026-09-05T12:14:57.646493
+Hongu 1,2023,moraine,260664.70204743033,ok,3.917,91,normal,2026-09-05T12:14:57.646500
+Hongu 1,2024,moraine,249718.3110483207,ok,6.781,91,normal,2026-09-05T12:14:57.646506
+Imja Tsho,2016,moraine,1295552.1493709788,ok,12.263,91,normal,2026-09-05T12:15:08.770566
+Imja Tsho,2017,moraine,1300055.7586239085,ok,10.772,91,normal,2026-09-05T12:15:08.770595
+Imja Tsho,2018,moraine,1240608.2608211741,ok,12.65,91,normal,2026-09-05T12:15:08.770604
+Imja Tsho,2019,moraine,160327.99249267578,ok,7.544,91,single_year_dip,2026-09-05T12:15:08.770612
+Imja Tsho,2020,moraine,1453291.1372182807,ok,12.0,91,normal,2026-09-05T12:15:08.770620
+Imja Tsho,2021,moraine,1358726.1440034756,ok,11.654,91,normal,2026-09-05T12:15:08.770628
+Imja Tsho,2022,moraine,1545743.806391937,ok,8.944,91,normal,2026-09-05T12:15:08.770635
+Imja Tsho,2023,moraine,1576039.754737525,ok,8.935,91,normal,2026-09-05T12:15:08.770642
+Imja Tsho,2024,moraine,1539414.0246017156,ok,9.809,91,normal,2026-09-05T12:15:08.770649
+Lumding,2016,moraine,754455.2566480453,ok,13.931,91,normal,2026-09-05T12:15:19.320933
+Lumding,2017,moraine,731623.7109415694,ok,14.753,91,normal,2026-09-05T12:15:19.320960
+Lumding,2018,moraine,826623.2370593504,ok,15.121,91,normal,2026-09-05T12:15:19.320969
+Lumding,2019,moraine,900.6868286132812,contaminated,12.897,91,normal,2026-09-05T12:15:19.320977
+Lumding,2020,moraine,911895.3637654625,ok,18.324,91,normal,2026-09-05T12:15:19.320984
+Lumding,2021,moraine,620468.2822260841,ok,24.084,91,normal,2026-09-05T12:15:19.320992
+Lumding,2022,moraine,871657.6087024168,ok,11.973,91,normal,2026-09-05T12:15:19.320998
+Lumding,2023,moraine,832822.11632487,ok,13.148,91,normal,2026-09-05T12:15:19.321005
+Lumding,2024,moraine,364255.6807351505,ok,11.724,91,normal,2026-09-05T12:15:19.321013
+Tsho Rolpa,2016,moraine,1450064.8214111328,ok,14.851,91,normal,2026-09-05T12:15:36.733730
+Tsho Rolpa,2017,moraine,1424846.2740478516,ok,12.64,91,normal,2026-09-05T12:15:36.733752
+Tsho Rolpa,2018,moraine,1457252.4712064855,ok,11.912,91,normal,2026-09-05T12:15:36.733757
+Tsho Rolpa,2019,moraine,3602.6546020507812,contaminated,9.865,91,single_year_dip,2026-09-05T12:15:36.733764
+Tsho Rolpa,2020,moraine,1455959.8128860772,ok,13.307,91,normal,2026-09-05T12:15:36.733768
+Tsho Rolpa,2021,moraine,1495232.1734319946,ok,18.434,91,normal,2026-09-05T12:15:36.733772
+Tsho Rolpa,2022,moraine,1494688.2257889092,ok,11.531,91,normal,2026-09-05T12:15:36.733776
+Tsho Rolpa,2023,moraine,1536715.534729722,ok,12.42,91,normal,2026-09-05T12:15:36.733779
+Tsho Rolpa,2024,moraine,1518603.4516345453,ok,9.153,91,single_year_dip,2026-09-05T12:15:36.733784
+Ronti Peak,2016,slope,,not_applicable,25.032,91,single_year_dip,2026-09-05T12:15:46.481996
+Ronti Peak,2017,slope,,not_applicable,28.857,91,normal,2026-09-05T12:15:46.482018
+Ronti Peak,2018,slope,,not_applicable,24.616,91,single_year_dip,2026-09-05T12:15:46.482028
+Ronti Peak,2019,slope,,not_applicable,41.759,91,normal,2026-09-05T12:15:46.482042
+Ronti Peak,2020,slope,,not_applicable,35.042,91,normal,2026-09-05T12:15:46.482049
+Ronti Peak,2021,slope,,not_applicable,41.012,91,normal,2026-09-05T12:15:46.482056
+Ronti Peak,2022,slope,,not_applicable,29.94,91,normal,2026-09-05T12:15:46.482063
+Ronti Peak,2023,slope,,not_applicable,36.859,91,normal,2026-09-05T12:15:46.482069
+Ronti Peak,2024,slope,,not_applicable,23.138,91,single_year_dip,2026-09-05T12:15:46.482076
+Thulagi Tsho,2016,moraine,243095.1532537722,ok,58.674,91,normal,2026-09-05T12:15:57.923944
+Thulagi Tsho,2017,moraine,25184.258178710938,ok,59.132,91,normal,2026-09-05T12:15:57.924062
+Thulagi Tsho,2018,moraine,206187.20926657287,ok,58.517,91,normal,2026-09-05T12:15:57.924072
+Thulagi Tsho,2019,moraine,1136043.7036156745,ok,67.295,91,normal,2026-09-05T12:15:57.924080
+Thulagi Tsho,2020,moraine,809246.6855102539,ok,61.682,91,normal,2026-09-05T12:15:57.924087
+Thulagi Tsho,2021,moraine,11692.595031738281,contaminated,58.538,91,normal,2026-09-05T12:15:57.924100
+Thulagi Tsho,2022,moraine,6296.02099609375,contaminated,61.06,91,normal,2026-09-05T12:15:57.924107
+Thulagi Tsho,2023,moraine,285969.7834814931,ok,65.744,91,normal,2026-09-05T12:15:57.924115
+Thulagi Tsho,2024,moraine,129956.62565104167,ok,57.354,91,single_year_dip,2026-09-05T12:15:57.924123
+Raphstreng Tsho,2016,moraine,1175710.0563665652,ok,17.487,91,normal,2026-09-05T12:16:12.734754
+Raphstreng Tsho,2017,moraine,1194827.3694692575,ok,16.323,91,normal,2026-09-05T12:16:12.734782
+Raphstreng Tsho,2018,moraine,1193163.2282738779,ok,9.492,91,normal,2026-09-05T12:16:12.734791
+Raphstreng Tsho,2019,moraine,33266.615783691406,contaminated,13.752,91,normal,2026-09-05T12:16:12.734799
+Raphstreng Tsho,2020,moraine,1173841.5366467047,ok,12.861,91,normal,2026-09-05T12:16:12.734806
+Raphstreng Tsho,2021,moraine,1173358.450522509,ok,9.618,91,normal,2026-09-05T12:16:12.734813
+Raphstreng Tsho,2022,moraine,1177060.473338647,ok,8.833,91,single_year_dip,2026-09-05T12:16:12.734820
+Raphstreng Tsho,2023,moraine,1166006.7762094536,ok,11.217,91,normal,2026-09-05T12:16:12.734827
+Raphstreng Tsho,2024,moraine,1176164.7974468158,ok,10.912,91,normal,2026-09-05T12:16:12.734833
+Candidate Lake DISCOVERED_1,2016,candidate_moraine,735427.9481749291,ok,13.508,91,normal,2026-09-05T12:16:42.599225
+Candidate Lake DISCOVERED_1,2017,candidate_moraine,718332.5319546568,ok,14.402,91,normal,2026-09-05T12:16:42.599263
+Candidate Lake DISCOVERED_1,2018,candidate_moraine,791337.654386872,ok,14.806,91,normal,2026-09-05T12:16:42.599271
+Candidate Lake DISCOVERED_1,2019,candidate_moraine,900.6868286132812,contaminated,12.344,91,normal,2026-09-05T12:16:42.599283
+Candidate Lake DISCOVERED_1,2020,candidate_moraine,869640.9389679553,ok,17.779,91,normal,2026-09-05T12:16:42.599290
+Candidate Lake DISCOVERED_1,2021,candidate_moraine,614209.5252249924,ok,24.067,91,normal,2026-09-05T12:16:42.599298
+Candidate Lake DISCOVERED_1,2022,candidate_moraine,830010.705630553,ok,11.751,91,normal,2026-09-05T12:16:42.599304
+Candidate Lake DISCOVERED_1,2023,candidate_moraine,808595.5582787606,ok,12.346,91,normal,2026-09-05T12:16:42.599311
+Candidate Lake DISCOVERED_1,2024,candidate_moraine,323696.5634554994,ok,11.332,91,normal,2026-09-05T12:16:42.599318
+Candidate Lake DISCOVERED_5,2016,candidate_moraine,118771.26556228937,ok,12.416,91,normal,2026-09-05T12:16:57.751696
+Candidate Lake DISCOVERED_5,2017,candidate_moraine,53368.47955777038,ok,11.15,91,normal,2026-09-05T12:16:57.751720
+Candidate Lake DISCOVERED_5,2018,candidate_moraine,358655.68251426547,ok,10.873,91,normal,2026-09-05T12:16:57.751724
+Candidate Lake DISCOVERED_5,2019,candidate_moraine,2702.15771484375,contaminated,8.119,91,single_year_dip,2026-09-05T12:16:57.751729
+Candidate Lake DISCOVERED_5,2020,candidate_moraine,614844.8972522211,ok,11.539,91,normal,2026-09-05T12:16:57.751733
+Candidate Lake DISCOVERED_5,2021,candidate_moraine,245440.62106407015,ok,18.511,91,normal,2026-09-05T12:16:57.751736
+Candidate Lake DISCOVERED_5,2022,candidate_moraine,806479.0849882237,ok,11.142,91,normal,2026-09-05T12:16:57.751740
+Candidate Lake DISCOVERED_5,2023,candidate_moraine,0,contaminated,11.93,91,normal,2026-09-05T12:16:57.751744
+Candidate Lake DISCOVERED_5,2024,candidate_moraine,0,contaminated,10.827,91,normal,2026-09-05T12:16:57.751748
+Candidate Lake DISCOVERED_3,2016,candidate_moraine,382796.94677734375,ok,6.164,91,normal,2026-09-05T12:17:16.339710
+Candidate Lake DISCOVERED_3,2017,candidate_moraine,348570.40130615234,ok,4.943,91,normal,2026-09-05T12:17:16.339745
+Candidate Lake DISCOVERED_3,2018,candidate_moraine,424229.06677246094,ok,3.872,91,normal,2026-09-05T12:17:16.339754
+Candidate Lake DISCOVERED_3,2019,candidate_moraine,0,contaminated,4.71,91,normal,2026-09-05T12:17:16.339763
+Candidate Lake DISCOVERED_3,2020,candidate_moraine,561135.2203979492,ok,5.487,91,normal,2026-09-05T12:17:16.339775
+Candidate Lake DISCOVERED_3,2021,candidate_moraine,387300.4617919922,ok,7.236,91,normal,2026-09-05T12:17:16.339783
+Candidate Lake DISCOVERED_3,2022,candidate_moraine,417924.1763305664,ok,1.92,91,confirmed_low_snow_anomaly,2026-09-05T12:17:16.339790
+Candidate Lake DISCOVERED_3,2023,candidate_moraine,397208.12481689453,ok,2.632,91,confirmed_low_snow_anomaly,2026-09-05T12:17:16.339796
+Candidate Lake DISCOVERED_3,2024,candidate_moraine,340464.1027832031,ok,2.335,91,confirmed_low_snow_anomaly,2026-09-05T12:17:16.339802
+Candidate Lake DISCOVERED_2,2016,candidate_moraine,639609.1745689242,ok,12.93,91,normal,2026-09-05T12:17:32.437313
+Candidate Lake DISCOVERED_2,2017,candidate_moraine,626550.9484094956,ok,13.529,91,normal,2026-09-05T12:17:32.437350
+Candidate Lake DISCOVERED_2,2018,candidate_moraine,645115.7256996304,ok,13.898,91,normal,2026-09-05T12:17:32.437359
+Candidate Lake DISCOVERED_2,2019,candidate_moraine,0,contaminated,11.135,91,normal,2026-09-05T12:17:32.437369
+Candidate Lake DISCOVERED_2,2020,candidate_moraine,662843.3899808996,ok,16.605,91,normal,2026-09-05T12:17:32.437377
+Candidate Lake DISCOVERED_2,2021,candidate_moraine,593585.7628932579,ok,22.85,91,normal,2026-09-05T12:17:32.437390
+Candidate Lake DISCOVERED_2,2022,candidate_moraine,662638.53058723,ok,10.6,91,normal,2026-09-05T12:17:32.437398
+Candidate Lake DISCOVERED_2,2023,candidate_moraine,656125.3186303233,ok,11.739,91,normal,2026-09-05T12:17:32.437404
+Candidate Lake DISCOVERED_2,2024,candidate_moraine,156069.83731210744,ok,10.447,91,normal,2026-09-05T12:17:32.437411
+Candidate Lake DISCOVERED_4,2016,candidate_moraine,407125.13946533203,ok,12.461,91,normal,2026-09-05T12:17:50.151388
+Candidate Lake DISCOVERED_4,2017,candidate_moraine,389110.7536621094,ok,10.506,91,normal,2026-09-05T12:17:50.151416
+Candidate Lake DISCOVERED_4,2018,candidate_moraine,421536.6447753906,ok,11.884,91,normal,2026-09-05T12:17:50.151424
+Candidate Lake DISCOVERED_4,2019,candidate_moraine,10808.631164550781,contaminated,4.577,91,single_year_dip,2026-09-05T12:17:50.151436
+Candidate Lake DISCOVERED_4,2020,candidate_moraine,429643.1198730469,ok,14.401,91,normal,2026-09-05T12:17:50.151443
+Candidate Lake DISCOVERED_4,2021,candidate_moraine,444965.94429572613,ok,22.821,91,normal,2026-09-05T12:17:50.151450
+Candidate Lake DISCOVERED_4,2022,candidate_moraine,406224.41955566406,ok,6.902,91,normal,2026-09-05T12:17:50.151457
+Candidate Lake DISCOVERED_4,2023,candidate_moraine,436530.9775761623,ok,6.728,91,normal,2026-09-05T12:17:50.151464
+Candidate Lake DISCOVERED_4,2024,candidate_moraine,381873.20173052617,ok,6.253,91,normal,2026-09-05T12:17:50.151470
+Candidate Mountain 1,2016,candidate_slope,,not_applicable,7.844,91,normal,2026-09-05T12:17:58.447804
+Candidate Mountain 1,2017,candidate_slope,,not_applicable,8.884,91,normal,2026-09-05T12:17:58.447834
+Candidate Mountain 1,2018,candidate_slope,,not_applicable,10.109,91,normal,2026-09-05T12:17:58.447842
+Candidate Mountain 1,2019,candidate_slope,,not_applicable,4.751,91,single_year_dip,2026-09-05T12:17:58.447850
+Candidate Mountain 1,2020,candidate_slope,,not_applicable,11.163,91,normal,2026-09-05T12:17:58.447857
+Candidate Mountain 1,2021,candidate_slope,,not_applicable,12.199,91,normal,2026-09-05T12:17:58.447864
+Candidate Mountain 1,2022,candidate_slope,,not_applicable,4.321,91,single_year_dip,2026-09-05T12:17:58.447870
+Candidate Mountain 1,2023,candidate_slope,,not_applicable,5.059,91,normal,2026-09-05T12:17:58.447877
+Candidate Mountain 1,2024,candidate_slope,,not_applicable,5.203,91,normal,2026-09-05T12:17:58.447883
+Candidate Mountain 2,2016,candidate_slope,,not_applicable,36.8,91,normal,2026-09-05T12:18:08.243459
+Candidate Mountain 2,2017,candidate_slope,,not_applicable,38.958,91,normal,2026-09-05T12:18:08.243489
+Candidate Mountain 2,2018,candidate_slope,,not_applicable,38.289,91,normal,2026-09-05T12:18:08.243497
+Candidate Mountain 2,2019,candidate_slope,,not_applicable,33.84,91,single_year_dip,2026-09-05T12:18:08.243505
+Candidate Mountain 2,2020,candidate_slope,,not_applicable,40.637,91,normal,2026-09-05T12:18:08.243512
+Candidate Mountain 2,2021,candidate_slope,,not_applicable,44.004,91,normal,2026-09-05T12:18:08.243520
+Candidate Mountain 2,2022,candidate_slope,,not_applicable,35.765,91,normal,2026-09-05T12:18:08.243526
+Candidate Mountain 2,2023,candidate_slope,,not_applicable,34.145,91,normal,2026-09-05T12:18:08.243533
+Candidate Mountain 2,2024,candidate_slope,,not_applicable,33.419,91,single_year_dip,2026-09-05T12:18:08.243539
+Candidate Mountain 3,2016,candidate_slope,,not_applicable,14.959,91,normal,2026-09-05T12:18:17.861095
+Candidate Mountain 3,2017,candidate_slope,,not_applicable,14.766,91,normal,2026-09-05T12:18:17.861123
+Candidate Mountain 3,2018,candidate_slope,,not_applicable,13.541,91,normal,2026-09-05T12:18:17.861132
+Candidate Mountain 3,2019,candidate_slope,,not_applicable,9.231,91,single_year_dip,2026-09-05T12:18:17.861139
+Candidate Mountain 3,2020,candidate_slope,,not_applicable,16.458,91,normal,2026-09-05T12:18:17.861147
+Candidate Mountain 3,2021,candidate_slope,,not_applicable,17.897,91,normal,2026-09-05T12:18:17.861153
+Candidate Mountain 3,2022,candidate_slope,,not_applicable,10.87,91,normal,2026-09-05T12:18:17.861160
+Candidate Mountain 3,2023,candidate_slope,,not_applicable,13.213,91,normal,2026-09-05T12:18:17.861166
+Candidate Mountain 3,2024,candidate_slope,,not_applicable,9.453,91,single_year_dip,2026-09-05T12:18:17.861172
+Candidate Mountain 4,2016,candidate_slope,,not_applicable,16.501,91,normal,2026-09-05T12:18:26.850381
+Candidate Mountain 4,2017,candidate_slope,,not_applicable,15.27,91,normal,2026-09-05T12:18:26.850408
+Candidate Mountain 4,2018,candidate_slope,,not_applicable,14.486,91,normal,2026-09-05T12:18:26.850416
+Candidate Mountain 4,2019,candidate_slope,,not_applicable,9.669,91,single_year_dip,2026-09-05T12:18:26.850424
+Candidate Mountain 4,2020,candidate_slope,,not_applicable,17.04,91,normal,2026-09-05T12:18:26.850431
+Candidate Mountain 4,2021,candidate_slope,,not_applicable,17.608,91,normal,2026-09-05T12:18:26.850438
+Candidate Mountain 4,2022,candidate_slope,,not_applicable,11.928,91,normal,2026-09-05T12:18:26.850444
+Candidate Mountain 4,2023,candidate_slope,,not_applicable,11.634,91,normal,2026-09-05T12:18:26.850451
+Candidate Mountain 4,2024,candidate_slope,,not_applicable,9.139,91,single_year_dip,2026-09-05T12:18:26.850458
+Candidate Mountain 5,2016,candidate_slope,,not_applicable,10.504,91,normal,2026-09-05T12:18:35.446048
+Candidate Mountain 5,2017,candidate_slope,,not_applicable,11.169,91,normal,2026-09-05T12:18:35.446078
+Candidate Mountain 5,2018,candidate_slope,,not_applicable,10.378,91,normal,2026-09-05T12:18:35.446089
+Candidate Mountain 5,2019,candidate_slope,,not_applicable,7.889,91,normal,2026-09-05T12:18:35.446097
+Candidate Mountain 5,2020,candidate_slope,,not_applicable,15.168,91,normal,2026-09-05T12:18:35.446104
+Candidate Mountain 5,2021,candidate_slope,,not_applicable,19.82,91,normal,2026-09-05T12:18:35.446111
+Candidate Mountain 5,2022,candidate_slope,,not_applicable,7.392,91,normal,2026-09-05T12:18:35.446118
+Candidate Mountain 5,2023,candidate_slope,,not_applicable,10.197,91,normal,2026-09-05T12:18:35.446124
+Candidate Mountain 5,2024,candidate_slope,,not_applicable,7.76,91,normal,2026-09-05T12:18:35.446131
